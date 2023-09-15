@@ -1,6 +1,5 @@
 ### 👋 Hi there! I am Benny Chandra
 
-This README.md is shown in my GitHub profile: [https://github.com/benny0924](https://github.com/benny0924).
 <!--
 **benny0924/benny0924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
